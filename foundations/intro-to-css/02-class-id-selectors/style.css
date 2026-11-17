@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.tek {
+    background-color: pink;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#cift {
+    color: blue;
+    font-size: 36px;
+}
+
+.üc {
+    font-size: 24px;
+}
+
+#number-four {
+    background-color: rgb(127, 198, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
